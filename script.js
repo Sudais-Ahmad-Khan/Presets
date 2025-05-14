@@ -23,6 +23,7 @@ cards.forEach(function(card){
 setTimeout(() => {
     btn.style.opacity = "1";
     btn.href = link;
+    btn.style.pointerEvents = "auto";
 }, 30000);
     });
 });
