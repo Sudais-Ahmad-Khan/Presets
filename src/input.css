@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+body{
+    background-image: url(../Marvel\ Spiderman\ Art\ Wallpaper\ 4K\ HD\ free\ download\ Background\ UltraHD\ for\ PC\ laptop\ and\ mobile.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat ;
+}
+.onhover:hover{
+    scale: 1.1;
+}
+.newbody{
+    background-image: url(../Marvel\ Spiderman\ Art\ Wallpaper\ 4K\ HD\ free\ download\ Background\ UltraHD\ for\ PC\ laptop\ and\ mobile.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat ;
+}
